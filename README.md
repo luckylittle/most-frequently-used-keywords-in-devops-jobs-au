@@ -46,6 +46,10 @@ extensive experience 203
 
 ## Inspired by book "Principles of Data Science" by "Sinam Ozdemir"
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/luckylittle/most-frequently-used-keywords-in-devops-jobs-au.svg)](https://starchart.cc/luckylittle/most-frequently-used-keywords-in-devops-jobs-au)
+
 ---
 
 _Last update: Tue Jan 28 00:02:35 UTC 2020_
